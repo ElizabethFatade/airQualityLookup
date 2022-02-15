@@ -1,0 +1,27 @@
+body {
+
+    background-color: #c4dced
+    }
+
+.alignment{
+    margin: 0;
+    position: fixed;
+    top: 40%;
+    left: 25%;
+}
+.alignment2{
+    margin: 0;
+    position: fixed;
+    top: 50%;
+    left: 40%;
+}
+
+.place {
+    margin: 0;
+    position: absolute;
+    font-family: monospace;
+    font-size: 64pt;
+    top: 10%;
+    text-align: center;
+    left: 40%;
+}
